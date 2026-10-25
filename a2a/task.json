@@ -5,8 +5,8 @@
     "id": "04386d4d-b587-46a9-b2f7-9005afac0a86",
     "contextId": "a0c84165-d045-44be-a97a-245a141fba7d",
     "status": {
-      "state": "TASK_STATE_SUBMITTED",
-      "timestamp": "2026-10-25T02:27:58.809Z"
+      "state": "TASK_STATE_CANCELED",
+      "timestamp": "2026-10-25T02:29:12.858Z"
     },
     "history": [
       {

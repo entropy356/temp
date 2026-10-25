@@ -1,0 +1,26 @@
+{
+  "transportVersion": "0",
+  "protocolVersion": "1.0",
+  "task": {
+    "id": "04386d4d-b587-46a9-b2f7-9005afac0a86",
+    "contextId": "a0c84165-d045-44be-a97a-245a141fba7d",
+    "status": {
+      "state": "TASK_STATE_SUBMITTED",
+      "timestamp": "2026-10-25T02:27:58.809Z"
+    },
+    "history": [
+      {
+        "role": "ROLE_USER",
+        "parts": [
+          {
+            "text": "Cross-repository permission check for the fine-grained PAT"
+          }
+        ],
+        "messageId": "78caf8a4-0680-4689-9862-93cab9ae8333",
+        "taskId": "04386d4d-b587-46a9-b2f7-9005afac0a86",
+        "contextId": "a0c84165-d045-44be-a97a-245a141fba7d"
+      }
+    ],
+    "artifacts": []
+  }
+}
